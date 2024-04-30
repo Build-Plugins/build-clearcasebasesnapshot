@@ -1,0 +1,15 @@
+{
+    "name": "ClearCase Base Snapshot",
+    "docsURL": "",
+    "source_project": "",
+    "description": "IBM Rational ClearCase provides tools for supporting software configuration management (SCM) of source code and other software development assets. The ClearCase Base Snapshot plug-in integrates IBM UrbanCode Build with IBM Rational",
+    "specification": {
+        "categories": [],
+        "type": ""
+    },
+    "author": {
+        "name": "",
+        "email": ""
+    },
+    "publish": true
+}
