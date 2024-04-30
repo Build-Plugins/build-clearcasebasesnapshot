@@ -1,0 +1,36 @@
+[
+    {
+        "version": "14",
+        "semver": "14.767774",
+        "date": "2016.03.30 10:05",
+        "file": "ClearCaseBaseSnapshot-14.767774.zip",
+        "notes": [
+            "Fix change set parsing in the Changelog step",
+            "Fix a bug around setting the latest change date in the Quiet Period step"
+        ],
+        "supports": "",
+        "SORT_VERSION": "0000001400767774"
+    },
+    {
+        "version": "13",
+        "semver": "13.753109",
+        "date": "2016.03.02 12:07",
+        "file": "ClearCaseBaseSnapshot-13.753109.zip",
+        "notes": [
+            "Added RPX dependency and English translations"
+        ],
+        "supports": "",
+        "SORT_VERSION": "0000001300753109"
+    },
+    {
+        "version": "12",
+        "semver": "12.673059",
+        "date": "2015.06.03 17:47",
+        "file": "ClearCaseBaseSnapshot-12.673059.zip",
+        "notes": [
+            "Fixed a race condition when processing command output"
+        ],
+        "supports": "",
+        "SORT_VERSION": "0000001200673059"
+    }
+]
