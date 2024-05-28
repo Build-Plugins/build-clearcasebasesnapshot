@@ -11,7 +11,7 @@ Fix a bug around setting the latest change date in the Quiet Period step
  
 ### Version 13
  
-#### Build: 13.753109 - Date: 2016.03.02 12:07
+#### Build: 13.753109 - Date: 2016.03.02 11:07
  
 Added RPX dependency and English translations
  
