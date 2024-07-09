@@ -27,5 +27,8 @@ theme:
       accent: blue
 markdown_extensions:
   - admonition
+nav:
+  - Home: index.md
+  - Top: "https://urbancode.github.io/IBM-UCx-PLUGIN-DOCS/"
 extra:
   generator: false
